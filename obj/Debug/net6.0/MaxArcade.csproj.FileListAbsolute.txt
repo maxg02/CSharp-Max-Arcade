@@ -1,0 +1,15 @@
+C:\Dev\C#\MaxArcade\MaxArcade\bin\Debug\net6.0\MaxArcade.exe
+C:\Dev\C#\MaxArcade\MaxArcade\bin\Debug\net6.0\MaxArcade.deps.json
+C:\Dev\C#\MaxArcade\MaxArcade\bin\Debug\net6.0\MaxArcade.runtimeconfig.json
+C:\Dev\C#\MaxArcade\MaxArcade\bin\Debug\net6.0\MaxArcade.dll
+C:\Dev\C#\MaxArcade\MaxArcade\bin\Debug\net6.0\MaxArcade.pdb
+C:\Dev\C#\MaxArcade\MaxArcade\obj\Debug\net6.0\MaxArcade.csproj.AssemblyReference.cache
+C:\Dev\C#\MaxArcade\MaxArcade\obj\Debug\net6.0\MaxArcade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#\MaxArcade\MaxArcade\obj\Debug\net6.0\MaxArcade.AssemblyInfoInputs.cache
+C:\Dev\C#\MaxArcade\MaxArcade\obj\Debug\net6.0\MaxArcade.AssemblyInfo.cs
+C:\Dev\C#\MaxArcade\MaxArcade\obj\Debug\net6.0\MaxArcade.csproj.CoreCompileInputs.cache
+C:\Dev\C#\MaxArcade\MaxArcade\obj\Debug\net6.0\MaxArcade.dll
+C:\Dev\C#\MaxArcade\MaxArcade\obj\Debug\net6.0\refint\MaxArcade.dll
+C:\Dev\C#\MaxArcade\MaxArcade\obj\Debug\net6.0\MaxArcade.pdb
+C:\Dev\C#\MaxArcade\MaxArcade\obj\Debug\net6.0\MaxArcade.genruntimeconfig.cache
+C:\Dev\C#\MaxArcade\MaxArcade\obj\Debug\net6.0\ref\MaxArcade.dll
